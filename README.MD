@@ -3,7 +3,7 @@ Viagens de Verão - Guia de Destinos
 Este projeto é uma página web simples que permite aos usuários explorarem destinos de verão com base em suas preferências. 
 Os destinos são exibidos com imagens atraentes e nomes correspondentes. Abaixo estão detalhes sobre a estrutura do código, funcionalidades e estilos.
 
-- Estrutura do Código HTML - 
+- Estrutura do Código HTML 
 
 O código HTML é estruturado para criar uma página web com três seções principais:
 
@@ -11,7 +11,7 @@ O código HTML é estruturado para criar uma página web com três seções prin
 • Input e Botão: Permite aos usuários inserirem o destino desejado.
 • Container de Imagens: Exibe imagens e nomes de destinos correspondentes.
 
-- Estilos CSS - 
+- Estilos CSS  
 
 O estilo CSS é utilizado para criar uma interface visual atraente e responsiva. Destacam-se os seguintes aspectos:
 
@@ -20,7 +20,7 @@ O estilo CSS é utilizado para criar uma interface visual atraente e responsiva.
 • Input e Botão Estilizados: O campo de input e o botão são estilizados para uma aparência moderna.
 • Efeito de Rotação nas Imagens: As imagens giram sutilmente quando o mouse passa por cima delas.
 
-- Script JavaScript - 
+- Script JavaScript  
 
 O script JavaScript gerencia a interatividade da página. Ele inclui:
 
@@ -29,13 +29,13 @@ O script JavaScript gerencia a interatividade da página. Ele inclui:
 • Função para Filtrar Destinos: Filtra os destinos com base no input do usuário.
 • Renderização Dinâmica de Destinos: Atualiza a página com os destinos correspondentes quando o botão é clicado.
 
-- Como Usar -
+- Como Usar 
 
 1.Abra o arquivo HTML em um navegador da web.
 2.Insira o destino desejado no campo de input.
 3.Clique no botão para visualizar os destinos correspondentes.
 
-- Observações - 
+- Observações 
 
 Certifique-se de ter uma conexão com a internet, pois o projeto carrega fontes e estilos externos.
 Este projeto é destinado a fins educacionais e pode ser expandido com mais destinos e recursos conforme necessário.
